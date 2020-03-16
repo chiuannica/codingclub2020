@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+}
+.desc {
+    text-align: center;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile-pic {
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.our-carousel {
+    display: block;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
