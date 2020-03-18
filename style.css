@@ -34,7 +34,7 @@
     -o-transform: rotate(-90deg);
     transform: rotate(-90deg);
 }
-.bts-pic {
+.bts-pic, .bts-vid {
     width: 50%;
     margin: 10% 25%;
 }
