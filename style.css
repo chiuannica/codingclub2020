@@ -20,21 +20,3 @@
     margin-right: auto;
     
 }
-.annica-pic {
-    -webkit-transform:rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
-.annica-pic-2 {
-    -webkit-transform:rotate(-90deg);
-    -moz-transform: rotate(-90deg);
-    -ms-transform: rotate(-90deg);
-    -o-transform: rotate(-90deg);
-    transform: rotate(-90deg);
-}
-.bts-pic, .bts-vid {
-    width: 50%;
-    margin: 10% 25%;
-}
