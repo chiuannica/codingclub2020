@@ -1,0 +1,51 @@
+.title {
+    text-align: center;
+}
+.desc {
+    text-align: center;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.video {
+    width: 600px;
+    height: 400px;
+}
+.profile-pic {
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.our-carousel {
+    display: block;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.ada {
+  color: #b81f14
+}
+.vfd {
+  color: #fbff00
+}
+body {
+            background-image: url("https://wallpaperaccess.com/full/39551.jpg");
+         }
+.cool {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+/*
+.ao dai {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%
+}
+*/
