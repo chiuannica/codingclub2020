@@ -1,0 +1,40 @@
+.title {
+    text-align: center;
+}
+.desc {
+    text-align: center;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.video {
+    width: 600px;
+    height: 400px;
+}
+.profile-pic {
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.our-carousel {
+    display: block;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+body {
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://wallpaperplay.com/walls/full/1/d/b/379595.jpg);
+  background-size: cover;
+  color: #fff !important;
+}
+.Pharrell {
+   margin: 90px auto;
+  
+}
